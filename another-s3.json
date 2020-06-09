@@ -1,0 +1,7 @@
+{
+"Resources" : {
+    "S3AnotherBucketCreatedFromHarness" : {
+       "Type" : "AWS::S3::Bucket"
+       }
+    }
+}
